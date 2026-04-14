@@ -1,6 +1,6 @@
-# 2D Platformer
+# 3DGameBoys
 
-A 2D platformer game built in Java from scratch, developed as a team project by 3DGameBoys. Two members handled all programming and engine logic, while the rest of the team created the original art assets and sound.
+A 2D platformer game built in Java from scratch, developed as a team project. Me and one other member handled all programming and engine logic, while the rest of the team created the original art assets and sound.
 
 ## About
 
